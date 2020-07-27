@@ -20,7 +20,7 @@ database and example data.
 
 Leaving off from the solution of the last lesson, the `index` action rendered all
 birds:
-
+ 
 ```ruby
 class BirdsController < ApplicationController
   def index
